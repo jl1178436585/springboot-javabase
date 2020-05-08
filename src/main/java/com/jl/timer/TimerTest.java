@@ -15,14 +15,20 @@ import java.util.TimerTask;
 public class TimerTest {
 	
 	public static void main(String[] args) {
-		
+
 		new Timer().schedule(new TimerTask() {
-			
 			@Override
 			public void run() {
-				System.out.println("定时器");
+				System.out.println("只运行一次的定时器");
 			}
 		}, 2000);
+		
+		new Timer().schedule(new TimerTask() {
+			@Override
+			public void run() {
+				System.out.println("每隔1秒运行一次定时器，第一次运行需要等待2秒");
+			}
+		}, 2000,1000);
 		
 		
 	}

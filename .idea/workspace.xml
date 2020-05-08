@@ -211,7 +211,7 @@
       <workItem from="1588484133458" duration="9171000" />
       <workItem from="1588730614302" duration="16890000" />
       <workItem from="1588899100949" duration="277000" />
-      <workItem from="1588899396007" duration="770000" />
+      <workItem from="1588899396007" duration="1065000" />
     </task>
     <task id="LOCAL-00001" summary="change file">
       <created>1587974644012</created>
@@ -264,10 +264,14 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2481" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588040023074" />
-    <state x="2392" y="42" key="CommitChangelistDialog2" timestamp="1588898990438">
+    <state x="2392" y="0" key="CommitChangelistDialog2" timestamp="1588900545549">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2392" y="42" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588898990438" />
+    <state x="2392" y="0" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588900545549" />
+    <state x="2230" y="92" key="DiffContextDialog" timestamp="1588900523341">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2230" y="92" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588900523341" />
     <state x="3058" y="278" key="FileChooserDialogImpl" timestamp="1588832354961">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
